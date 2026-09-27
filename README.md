@@ -51,3 +51,7 @@ También se realizaron pruebas en tamaños intermedios para comprobar el comport
 - Se implementaron diferentes breakpoints para adaptar el contenido a cada resolución.
 - Se realizaron pruebas visuales y ajustes para mantener la similitud con el diseño original.
 - Se organizaron los archivos del proyecto siguiendo buenas prácticas de desarrollo.
+
+## Proyecto publicado
+
+[Ver mi portafolio en GitHub Pages](https://walther77.github.io/web_project_portfolio_es/)
